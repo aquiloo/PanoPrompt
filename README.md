@@ -1,2 +1,2 @@
 # PanoPrompt
-Implementation of `TDP-SAM: Token-driven Dynamic Prompter for EfficientSAM in Panoramic Pathology Segmentation`
+Implementation of `A Unified Panoramic Pathology Segmentation Framework via Explicit Prior-Feature Decoupling`
